@@ -1,10 +1,11 @@
 package a_go_1
 
 import (
-    "context"
-    "time"
+	"context"
+	"time"
 
-    "code.byted.org/byted-apaas/server-sdk-go/api"
+	"code.byted.org/byted-apaas/server-sdk-go/api"
+	"code.byted.org/byted-apaas/server-sdk-go/application"
 )
 
 /*Params 函数入参定义
@@ -30,7 +31,7 @@ func Handler(ctx context.Context, params *Params) (*Result, error) {
 
 	// 在这里补充业务代码
 
-	api.GetLogger(ctx).Infof("测试go部署调试")
+	application.GetLogger(ctx).Infof("测试go部署调试")
 
 	return &Result{}, nil
 }
