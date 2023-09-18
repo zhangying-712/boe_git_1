@@ -1,0 +1,17 @@
+{
+  "apiID": "package_cb5d05__c__function_aadfag7pnp2cy",
+  "apiName": "a_1",
+  "label": {
+    "zh_CN": "a分支创建函数1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
