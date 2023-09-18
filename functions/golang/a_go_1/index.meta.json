@@ -1,0 +1,17 @@
+{
+  "apiID": "package_cb5d05__c__function_aadfag7pnp2dy",
+  "apiName": "a_go_1",
+  "label": {
+    "zh_CN": "分支创建函数go1",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "isPublicAPI": false,
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
