@@ -31,7 +31,7 @@ func Handler(ctx context.Context, params *Params) (*Result, error) {
 
 	// 在这里补充业务代码
 
-	application.GetLogger(ctx).Infof("测试go部署")
+	application.GetLogger(ctx).Infof("测试go部署1")
 
 	return &Result{}, nil
 }
